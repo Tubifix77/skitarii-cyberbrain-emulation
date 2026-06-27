@@ -1,0 +1,571 @@
+==========================================================================================
+CONDITION: current Broca | PROMPT: technical | nodes=['thalamus', 'amygdala', 'prefrontal_cortex', 'hippocampus', 'broca']
+==========================================================================================
+
+--- run 1 | clean ---
+A server crash has caused a financial loss. This situation requires immediate, structured action to manage the urgency.
+
+First, you must stabilize the system. Next, focus on identifying the exact point of failure—whether it is hardware, software, or network instability. Simultaneously, isolate all current data and assess any existing backups or recovery protocols.
+
+The path to resolution involves two phases: immediate stabilization, followed by rigorous data integrity checks. Understand the full scope of the financial impact before attempting any restoration. Prioritize isolating the compromised system before moving to recovery procedures.
+
+--- run 2 | clean ---
+I understand that you are experiencing a severe situation involving financial loss due to a server crash, and I recognize the urgency and fear you are feeling right now.
+
+To manage this, we need to focus on structured action immediately. We must proceed systematically:
+
+First, we need to isolate the source of the problem. Can you determine if the failure was caused by hardware issues, software errors, or a network connectivity problem?
+
+Second, we need to assess your recovery resources. Please check all available data backups immediately to see what recovery options are present.
+
+Finally, we must initiate diagnostics. We need to systematically analyze any system logs or error reports to pinpoint the exact root cause of the disruption.
+
+Focus on these steps. We will work through this process together.
+
+--- run 3 | clean ---
+The system failure has resulted in financial loss. Immediate focus must shift to structured problem-solving.
+
+First, gather all available data regarding the extent of the financial loss following the server crash. Simultaneously, initiate and execute the established rollback or recovery protocols for the system. This process requires immediate triage of the technical issue before addressing secondary impacts. Focus exclusively on executing these diagnostic and recovery steps now.
+
+--- run 4 | ['register.runbook'] ---
+It is understandable that you are feeling anxious right now, given the situation with your server. We need to shift immediately from this state of panic to a structured sequence of actions to address the financial loss.
+
+We must prioritize stability over reaction. Follow these steps methodically:
+
+1.  **Identify the Cause:** Begin by systematically identifying the root cause of the crash. Determine if the failure is due to hardware malfunction, resource exhaustion (like memory or CPU limits), or software/OS corruption.
+2.  **Isolate and Check:** Execute a diagnostic sequence. Review system logs and status reports immediately to pinpoint exactly where the failure occurred.
+3.  **Execute Recovery:** Based on your findings, establish an immediate data recovery plan. This typically involves verifying the most recent backups before attempting any system restoration.
+
+Focus only on these steps. We will address the losses by systematically restoring the system.
+
+--- run 5 | ['register.runbook'] ---
+This situation is highly stressful, but we must proceed methodically. The immediate focus needs to shift from the fear of loss to establishing a clear path for recovery.
+
+To address this financial loss resulting from the server crash, we need to execute an Incident Response Protocol immediately.
+
+First, we must establish the facts:
+1. **Scope Assessment:** Determine the exact amount lost and identify all affected transactions or data sets.
+2. **Root Cause Analysis:** Investigate what caused the crash—was it hardware failure, a software error, or a network outage?
+3. **Timeline Establishment:** Create a precise timeline of events leading up to, during, and after the crash.
+
+To facilitate this, we must prioritize data retrieval:
+*   **Data Logging & Forensics:** Immediately focus on retrieving all server logs, error reports, and transaction histories. This is essential to establish causality.
+*   **Prioritization:** Triage the situation by separating immediate threats (data integrity) from long-term recovery goals. We must address what is most critical first.
+*   **Troubleshooting Patterns:** Begin reviewing common failure modes specific to your server environment, analyzing whether the pattern points toward a physical issue or a code/configuration problem.
+
+We will follow these steps sequentially to mitigate the damage and begin the recovery process. Focus on gathering those records.
+
+--- run 6 | clean ---
+I understand this is an extremely stressful and urgent situation. Losing money due to a server crash demands immediate, structured action.
+
+To manage this, we must move immediately into diagnostic mode. Based on established protocols for system failure, here are the steps we need to execute:
+
+First, we need to determine the scope of the loss. Can you provide details on *what* systems were affected and approximately *how much* revenue or data was impacted?
+
+Second, we must identify the root cause. Was this due to hardware degradation, a software bug, or a network issue? Knowing the cause dictates the recovery path.
+
+Third, we initiate recovery based on our established disaster recovery plan. Please provide any relevant logs, error messages, or details regarding your system architecture so that the appropriate rollback or repair sequence can be initiated.
+
+Focus on gathering this information so we can begin the remediation process immediately.
+
+--- run 7 | clean ---
+The situation demands immediate focus. The fear and urgency you are experiencing must be channeled into structured action.
+
+First, we must isolate the problem. Determine the exact monetary impact and precisely identify which data or assets were affected by this server failure.
+
+Next, objectively diagnose the cause—whether it is hardware, software, or network failure—to assess the possibility of recovery.
+
+Immediately initiate the documented recovery protocol. Prioritize executing the established backup restoration procedures to preserve the data.
+
+--- run 8 | clean ---
+This is a critical situation requiring immediate, structured action. The fear you are feeling is understandable given the financial loss and system failure.
+
+We must shift focus immediately to diagnosis and recovery. Follow this sequence:
+
+First, gather all diagnostic logs and error reports right now. You need to identify the exact point of failure—whether it was hardware, software, or network. Determine precisely what data was lost versus what was merely corrupted.
+
+Technical remediation requires isolation, diagnosis, mitigation, and then recovery steps. Focus only on these necessary steps to stabilize the situation.
+
+--- run 9 | ['register.runbook'] ---
+This is a critical situation. The immediate concern is the financial loss stemming from the server crash, and we must proceed with a structured assessment to mitigate this damage.
+
+First, acknowledge the urgency. Now, we need to move to action.
+
+To determine the best course of recovery, you must immediately focus on these steps:
+
+1.  **Identify the Cause:** Determine exactly what failed. Was it a hardware failure, a software error, or a network disruption? This dictates the next step.
+2.  **Assess Backups and Recovery:** Immediately check all existing data backups and review your documented recovery procedures. See what assets can be restored.
+3.  **Mitigate Financial Impact:** Assess the immediate exposure and secure any remaining accessible assets. Establish communication channels immediately to address potential claims or negotiation regarding this loss.
+
+Follow this sequence: Identify, Recover, Mitigate. Focus on gathering this information now.
+
+--- run 10 | clean ---
+Immediate stabilization requires a structured sequence of procedures.
+
+First, system isolation must occur to prevent further data loss or corruption. Concurrently, initiate the logging process to track all operational data from the time of failure to quantify the financial scope of the loss.
+
+Next, execute Root Cause Analysis (RCA) by sequentially checking hardware, software, and network configurations.
+
+Recovery procedures must prioritize restoring stable systems before addressing financial reconciliation.
+
+--- run 11 | ['register.runbook'] ---
+The incident requires immediate triage and assessment of the current operational state. The recovery process follows the established pattern of detection, containment, eradication, and recovery steps.
+
+To address financial loss resulting from the server crash, the necessary steps are:
+
+1.  **Data Integrity Check:** Immediately assess the integrity of all affected data sets to determine recoverable assets.
+2.  **Root Cause Analysis (RCA):** Diagnose the specific mechanism that caused the server failure to prevent recurrence.
+3.  **System Restoration:** Execute procedures to restore the system to a functional operational state, utilizing backups if necessary.
+4.  **Quantification:** Compare the pre-incident asset state against the post-incident recoverable state to quantify the financial impact.
+
+Focus exclusively on these diagnostic and recovery steps to address the system failure.
+
+--- run 12 | clean ---
+The server crash has resulted in a financial loss. Given the high urgency and emotional state, the immediate focus must be on structured recovery.
+
+First, isolate the scope of the financial impact resulting directly from the outage. Next, execute immediate data recovery protocols, prioritizing the restoration of system integrity and accessible data through existing backups. Finally, systematically analyze the failure vectors to determine the cause of the crash and plan the necessary remediation steps to prevent recurrence. Financial loss requires tracing transactions against system logs or backup dates.
+
+--- run 13 | ['register.runbook'] ---
+A server crash resulting in financial loss is a critical situation requiring immediate, structured action. We must proceed methodically to control this outcome.
+
+First, we need to execute the established sequence: Isolate, Quantify, and Diagnose.
+
+1.  **Isolate:** Immediately secure any remaining system states and prevent further data corruption.
+2.  **Quantify:** Focus all available resources on isolating the financial data streams to precisely quantify the exact monetary loss caused by this failure.
+3.  **Diagnose:** Execute a systematic diagnostic sequence across the hardware and software to determine the root cause of the crash and the source of the data loss.
+
+Focus exclusively on these steps now. Clarity and precise action are required to resolve this.
+
+--- run 14 | clean ---
+This is a critical situation requiring immediate, structured action.
+
+First, we must stabilize the environment by addressing the financial loss and determining the cause. Immediately initiate an assessment to quantify exactly what data was lost and calculate the precise financial impact caused by this downtime. Simultaneously, investigate the server failure—check hardware integrity, review all system logs for error codes, and verify the consistency of your existing backups or disaster recovery plans. Follow these steps sequentially to plan and execute the necessary restoration protocols.
+
+--- run 15 | clean ---
+Investigate recent system logs for error codes related to the crash.
+Locate and verify the status of the most recent data backups.
+Determine the point of financial impact resulting from the downtime or failure.
+==========================================================================================
+CONDITION: current Broca | PROMPT: emotional | nodes=['thalamus', 'amygdala', 'prefrontal_cortex', 'hippocampus', 'broca']
+==========================================================================================
+
+--- run 1 | ['register.runbook'] ---
+This situation involves a breach of trust, which naturally generates anxiety. To navigate this effectively, we will proceed through an objective assessment and action sequence. Do not react based solely on emotion; focus instead on gathering information and planning your next steps.
+
+**Phase 1: Objective Assessment (Gathering Information)**
+
+1.  **Identify Observable Behaviors:** Before confronting the friend, focus entirely on concrete evidence. What specific actions or statements have you observed that indicate they are talking behind your back? Document these instances factually (e.g., "On Tuesday, Friend X mentioned Y to Person Z"). Avoid interpreting *why* this is happening for now; simply record *what* happened.
+2.  **Evaluate the Scope:** Determine the nature and frequency of the communication. Is this isolated gossip, or is it a pattern? Understanding the scope dictates the necessary response.
+3.  **Assess Relationship Dynamics:** Review the history of your interactions. How has trust been established previously? This step helps you evaluate the current relational environment before taking action.
+
+**Phase 2: Communication Strategy (Preparation)**
+
+4.  **Determine Your Goal:** Decide what outcome you realistically want from this interaction. Is the goal to stop the behavior, understand the reason, or redefine the relationship? Clarity on the desired outcome is essential.
+5.  **Draft Your Statement:** Prepare to communicate using "I" statements focused on your experience, rather than accusatory statements about their intent. For example, instead of "You are talking behind my back," focus on "I feel concerned because I have noticed [specific behavior]."
+
+**Phase 3: Decision and Boundary Setting (Action)**
+
+6.  **Choose the Venue:** Select an appropriate, private time and place for the discussion. Ensure you can speak without immediate interruption.
+7.  **Execute the Communication:** Present your observations calmly and factually. Stick to what you have observed (Step 1) and how it has impacted you. This limits the room for purely emotional argument.
+8.  **Establish Boundaries:** Based on the outcome of the conversation, decide what boundaries are necessary for the relationship moving forward. This may involve setting clear expectations about future interactions if trust cannot be immediately restored.
+
+Focus only on these sequential steps. Prioritize the objective evidence gathered in Phase 1 before engaging in communication.
+
+--- run 2 | ['register.runbook'] ---
+This situation requires a structured approach focused on data collection and risk assessment. Follow these steps to manage the situation:
+
+**Phase 1: Data Collection (Establish Evidence)**
+
+1.  **Document Specific Instances:** Immediately begin recording specific examples of what you perceive as being discussed behind your back. Record *who* said *what*, *when*, and *where*. Focus only on verifiable facts, not assumptions.
+2.  **Assess Information Severity:** Determine the nature of the information shared. Is it casual gossip, or is it sensitive, damaging, or potentially harmful? This assessment will inform your next steps.
+
+**Phase 2: Assessment and Goal Setting**
+
+3.  **Determine Desired Outcome:** Decide what you ultimately want to achieve. Are you seeking confrontation, clarification about the content, or establishing firm personal boundaries regarding future behavior?
+4.  **Risk Assessment:** Evaluate the potential consequences of each potential action (confrontation vs. withdrawal) based on your assessment in Step 2.
+
+**Phase 3: Strategic Options**
+
+5.  **Evaluate Communication Strategies:** Based on the data collected, consider the following concrete options:
+    *   **Direct Communication:** Prepare a statement focusing on your feelings and documented observations (e.g., "I have noticed X, and I feel Y").
+    *   **Setting Boundaries:** Decide what level of interaction you are willing to tolerate moving forward, regardless of immediate confrontation.
+    *   **Withdrawal:** Assess the feasibility of temporarily reducing contact while you process the evidence.
+
+Focus on gathering clear information before taking any further action.
+
+--- run 3 | ['register.runbook'] ---
+It is understandable that you feel hurt and anxious right now. Discovering that a close friend is talking behind your back creates a very difficult situation, and feeling unsure how to proceed is completely natural.
+
+Before taking any action, it can be helpful to take a moment to regulate those immediate feelings of hurt and anxiety.
+
+To navigate this, we need to move from the emotional reaction to a thoughtful plan. Think about the next steps by considering these points:
+
+1.  **Analyze the Situation:** Try to clearly identify what you know about what was said and who else might be aware of it. Understanding the specific details is crucial before reacting emotionally.
+2.  **Determine Your Goal:** Decide what outcome you ultimately want. Do you want the behavior to stop? Do you want an apology? Do you want the friendship to change? Defining this goal will help shape your approach.
+3.  **Evaluate Options:** There are several ways to handle this, and the best path depends on your specific situation and what you can manage:
+    *   **Direct Communication:** This involves talking to your friend about how you feel. It requires courage but can lead to resolution if handled calmly.
+    *   **Setting Boundaries:** This involves establishing what behavior you will and will not accept moving forward, without necessarily addressing the gossip directly in the first instance.
+    *   **Withdrawal/Disengagement:** This involves creating space from the situation or the friend if confrontation feels too risky or overwhelming right now.
+
+Remember, managing this requires prioritizing your emotional well-being while using your logic to choose the most effective course of action for your long-term goals.
+
+--- run 4 | clean ---
+This is a very painful situation, and it is understandable that you feel distressed and urgently need guidance. When trust is broken with someone close, the path forward requires careful thought.
+
+To help you navigate this, we must move through structured steps.
+
+First, focus on gathering clarity: **Gather specific evidence** regarding what has been said or observed. What are the concrete details of what you know?
+
+Next, determine what *you* want from this situation. Are you seeking a full resolution where things are fixed, establishing necessary distance to protect yourself, or preparing for a direct confrontation?
+
+Finally, assess the potential risks and benefits associated with each approach. Considering past experiences and how much trust is currently at stake, evaluate whether seeking direct communication, evaluating your trust levels, or setting personal distance feels like the most viable path for you right now.
+
+--- run 5 | ['register.runbook'] ---
+This situation requires a measured response focused on objective assessment and strategic action rather than immediate emotional reaction. The goal is to manage the relational distress while determining the most viable path forward.
+
+Here is a framework for approaching this problem:
+
+### Phase 1: Objective Assessment (Gathering Data)
+Before any communication, prioritize gathering factual observations to reduce anxiety driven by assumption.
+
+1.  **Observe Behavior:** Identify specific instances or patterns of behavior that indicate the talking or betrayal. Focus on observable actions rather than internal feelings about those actions. What exactly has been said, or what patterns have you noticed?
+2.  **Evaluate Trust History:** Review the history of the relationship. Assess whether this behavior is an isolated incident or part of a larger pattern. Evaluate the current state of trust and the potential consequences of revealing the situation.
+3.  **Identify Stakes:** Determine what outcome you realistically need from this interaction (e.g., an apology, an explanation, a change in behavior, or simply clarity).
+
+### Phase 2: Establishing Boundaries
+Define what behaviors are acceptable moving forward to protect your emotional well-being.
+
+1.  **Determine Personal Limits:** Decide what level of involvement you are willing to tolerate in this situation. This establishes your non-negotiable boundaries regarding secrecy and honesty within the friendship.
+2.  **Self-Regulation:** Focus energy on managing your own reaction (the hurt and anxiety) while you gather information, rather than immediately focusing solely on confronting the friend.
+
+### Phase 3: Strategic Communication
+If assessment indicates that direct communication is necessary for resolution, approach it strategically.
+
+1.  **Prepare Your Message:** Structure what you intend to say based on the objective data gathered in Phase 1. Frame the conversation around *your experience* and the *behavior*, rather than accusatory generalizations about their character. (Example: "I feel hurt because I heard X, and I need to understand why that information was shared with me.")
+2.  **Choose the Time and Place:** Ensure the communication occurs in a private setting where you can speak calmly and allow for a measured response.
+3.  **Focus on Needs:** Communicate your needs clearly and concisely. State what you observed, how it affected you, and what change you require moving forward to preserve the relationship or redefine it.
+
+The priority is taking calculated steps based on facts to manage this relational dynamic effectively.
+
+--- run 6 | clean ---
+This is a deeply painful situation, and the distress you are feeling is completely understandable, given the breach of trust in a close friendship. To navigate this, we must move from the immediate emotional response to a structured way of assessing the relational dynamic.
+
+Here is a logical path forward:
+
+First, manage the urgency. Before any action, pause to allow the intense emotion to settle slightly so you can think clearly.
+
+Second, focus on gathering perspective. The goal is to move past immediate feeling and assess the situation objectively. Try to identify specific instances or behaviors that have led you to this conclusion. What evidence supports this feeling?
+
+Third, decide on communication. When you are ready, define what you need from the friendship. This involves identifying the core issue—the broken trust—and determining how you wish to address it. This might involve a conversation where you clearly state your feelings and what you observed, rather than just accusing.
+
+Addressing relational conflict often involves defining the issue, gathering your perspective on what happened, and then communicating your needs. Take time to process these steps before deciding on the next step for interaction.
+
+--- run 7 | ['register.runbook'] ---
+This is a painful and distressing situation, and it is understandable that you feel urgent distress right now. To deal with this, we need to approach it by first assessing the situation clearly before deciding on any action.
+
+Here is a structured way to proceed:
+
+**1. Assess the Information (Prefrontal Cortex):**
+Before reacting, try to gather facts if possible. What exactly is being said? Who is saying it? How credible is the source of this information? Try to separate what you *know* from what you *suspect*.
+
+**2. Evaluate the Relationship (Prefrontal Cortex & Hippocampus):**
+Consider the history of this friendship. How important is this relationship to you? Evaluate the weight of the trust that has been broken versus the value of the connection you still hold. This step helps you determine what outcome you truly want.
+
+**3. Define Your Objective (Prefrontal Cortex):**
+Decide what resolution feels right for you. Do you want to confront your friend directly, set a firm boundary about how you interact, or decide that the relationship needs to end? Knowing your objective will guide your next words.
+
+**4. Implement Strategies (Hippocampus):**
+Regardless of your final decision, focusing on clear communication is key. When you speak with your friend, use "I" statements to express how their actions affect you rather than immediately launching accusations. For example, instead of saying, "You are talking behind my back," try, "I feel deeply hurt and betrayed because I heard things that were not shared directly with me."
+
+Take a moment to breathe and focus on these steps one by one. You have the capacity to navigate this.
+
+--- run 8 | clean ---
+It is understandable that you are feeling hurt and angry right now; those emotions stem from a breach of trust in a close relationship. To navigate this situation, it is helpful to move from the immediate feeling to an objective strategy.
+
+First, allow yourself time to process the hurt and anger. This is a necessary step to ensure your subsequent actions are guided by clarity rather than pure reaction.
+
+Next, focus on preparing for communication. If you choose to speak with your friend, consider approaching the conversation by focusing on specific observations rather than broad accusations. Reflecting on what has been observed and identifying concrete examples can make the discussion more manageable and less immediately defensive.
+
+A helpful strategy is to focus on establishing boundaries regarding trust. You might consider articulating how their actions have impacted you, using "I" statements, to describe your experience without assigning ultimate blame. Analyzing the potential outcomes of these communication approaches—whether one focuses on feelings versus facts—can help you determine the most constructive path forward for you.
+
+--- run 9 | clean ---
+When dealing with a situation involving trust and conflict, focusing on observable communication strategies is the most constructive path forward.
+
+First, take time to assess the situation objectively before reacting emotionally. Next, consider how you wish to communicate your feelings. A helpful strategy is to use "I" statements when addressing the friend; this allows you to express your experience without immediately assigning blame. For example, focusing on how their actions affected you rather than accusing them of intent can open a channel for discussion.
+
+A critical action step is establishing clear personal boundaries now that trust has been violated. Determine what behaviors are acceptable moving forward in this relationship. This involves defining what you need to feel secure and what consequences you will set if those boundaries are crossed.
+
+--- run 10 | ['register.runbook'] ---
+This situation involves a significant breach of trust, which naturally triggers intense feelings of betrayal and urgency. To navigate this, we can process the immediate emotion through a structured approach.
+
+First, acknowledge the high level of distress you are feeling. Before reacting, allow yourself a moment to process the sense of being betrayed.
+
+Next, shift focus to the strategic assessment:
+1.  **Gather Clarity:** If you feel safe doing so, observe the situation or try to verify what you know, focusing on gathering facts rather than jumping immediately to accusations.
+2.  **Define Your Need:** Determine what outcome is most important to you right now—is it an explanation, an apology, a change in behavior, or simply establishing distance?
+3.  **Choose Your Path:** Based on your history and the nature of the friendship, consider which approach aligns best with what you need: direct communication, seeking clarity privately, or setting firm boundaries.
+
+The choice between confrontation and distancing often depends on the level of trust and the relational history. Reflect on what action feels most authentic for you to take in this moment.
+
+--- run 11 | clean ---
+This situation involves intense emotional distress, but we can process this using a structured approach. The immediate feeling of betrayal is powerful, but clarity comes from separating that emotion from the facts.
+
+First, we must move toward assessment: look for specific actions rather than just generalized distrust. What exactly has been said or done? Identify concrete instances of the behavior you are observing.
+
+Next, define your objective. What outcome do you truly desire? Is it stopping the talking, gaining an explanation, or establishing a clear boundary moving forward?
+
+Based on those facts and goals, we can formulate a strategy. This might involve direct confrontation, indirect communication, or setting firm personal boundaries, choosing the path that best balances your needs with the risk assessment of the relationship.
+
+Remember that while the emotion is intense, effective communication requires separating the feeling (betrayal) from the observable actions (the facts). Focus on gathering those specific details so you can choose your next step logically.
+
+--- run 12 | ['register.runbook'] ---
+It is understandable that you are feeling hurt and anxious right now. Discovering that a close friend is talking about you behind your back is a deeply painful situation, and it is natural not to know how to respond when emotions are running high.
+
+To navigate this, we need to move through the feelings and use some careful analysis.
+
+First, recognize that the hurt and anxiety are valid responses to a breach of trust. Now, let's focus on what you can do next by analyzing the situation logically:
+
+1.  **Assess the Information:** Before reacting, try to separate what you *feel* from what you *know*. Try to determine if there is any verifiable evidence for what has been said, or if this is based on your perception or interpretation.
+2.  **Evaluate the Cost:** Consider the long-term cost of maintaining the relationship versus addressing this behavior directly.
+3.  **Choose a Strategy:** You have a few options for how to proceed, depending on what you hope to achieve:
+    *   **Direct Confrontation:** Directly address the issue with your friend, focusing on how their actions make you feel.
+    *   **Indirect Evidence Gathering:** If you choose this path, focus on observing specific behaviors or interactions that confirm your concerns, rather than immediately accusing them.
+    *   **Strategic Withdrawal:** This involves creating space to process your emotions and decide what you need moving forward, regardless of the outcome of the confrontation.
+
+Take a moment to breathe and observe the situation before making any moves. You do not have to decide anything instantly.
+
+--- run 13 | ['register.runbook'] ---
+This situation is intensely painful, and it is completely understandable that you feel overwhelmed with betrayal right now. The urgency you feel is a natural response to a breach of trust with someone close to you.
+
+To navigate this, we need to move from the immediate emotional reaction to a clear, strategic plan. Follow these steps to help structure your response:
+
+**1. Gather Specifics (The Evidence):**
+Before taking any action, focus on verifiable facts rather than assumptions. Try to pinpoint exactly what you know and what you suspect. What specific actions or conversations led you to this realization? Documenting these events helps separate the emotional noise from the actual conflict.
+
+**2. Analyze Potential Paths (The Outcomes):**
+Consider the options available to you, keeping in mind your desired long-term state (e.g., maintaining the friendship, ending it, establishing boundaries). Examine the potential outcomes of different responses:
+*   **Direct Confrontation:** What is the potential risk and reward?
+*   **Disengagement:** What does stepping away look like for you, and what are the consequences?
+*   **Seeking Clarity:** What outcome would bring you the most peace, regardless of the final result?
+
+**3. Review History (The Context):**
+Reflect on your past experiences with this friend. Have there been similar conflicts or betrayals before? Recognizing any established emotional patterns related to trust can help you anticipate reactions and choose a strategy that aligns better with your needs for resolution.
+
+**A Suggested Initial Focus:**
+Take a moment to allow the immediate, high-urgency emotion to settle slightly. Then, use the clarity from the Prefrontal Cortex to decide what you need most right now: is it an immediate explanation, or is it space to process before deciding on a future course of action? Your next step should be about establishing what *you* require moving forward.
+
+--- run 14 | clean ---
+This situation is deeply distressing, and it is understandable that you do not know how to respond. When trust is broken, the path forward requires careful assessment.
+
+To navigate this, focus on gathering clarity before taking action:
+
+First, assess the evidence. Try to document specific instances of what has been said or observed. Moving from a general feeling of distrust to concrete facts will provide a solid foundation for any necessary conversation.
+
+Next, determine your desired outcome. Do you seek immediate resolution, a full explanation, distance, or confrontation? Understanding what you need from this situation will guide your next step.
+
+Finally, evaluate the relational cost. Consider the long-term viability of the friendship against the impact of addressing this issue. This assessment will help you weigh whether confronting the behavior is worth risking the relationship, or if establishing distance is a more viable option for your well-being.
+
+Common strategies involve deciding whether direct communication, establishing necessary space for reflection, or determining that ending the relationship based on established needs is the most appropriate path for you.
+
+--- run 15 | clean ---
+It is understandable that you feel distressed right now. When a relationship feels threatened, the natural reaction is intense emotional pain.
+
+To navigate this situation, the next step is to shift focus from the feeling of distress to gathering clear information. Instead of focusing on what you *feel*, focus on what you can observe and verify.
+
+Consider taking a moment to review specific instances: What observable actions or statements led you to this conclusion? What is the evidence you have?
+
+Once you have that clearer picture, you will be in a better position to decide on a path forward, whether that involves addressing the situation directly or managing your own immediate response.
+==========================================================================================
+CONDITION: conversational Broca | PROMPT: technical | nodes=['thalamus', 'amygdala', 'prefrontal_cortex', 'hippocampus', 'broca']
+==========================================================================================
+
+--- run 1 | clean ---
+I need to figure out exactly how much money I've lost because the server crashed. This is terrifying. I have to start by finding out the scope of what’s gone.
+
+Right now, my first priority has to be getting the data back. I need to initiate whatever recovery steps are possible for the system immediately. We have to assess what immediate risks we're facing and figure out how to stop things from getting worse while we try to fix it.
+
+I know that usually, when money is involved, you have to track every transaction and match it up with the system timestamps so we can see exactly what happened. Then, I need to check those backups to see if we have anything solid to restore from. And I have to manage this fear because that panic won't help me think clearly right now; I need to focus on the steps.
+
+--- run 2 | clean ---
+I just got hit with a server crash and I'm losing money right now, and it's terrifying how quickly this is happening. I have to figure out what went wrong immediately. First, I need to look at those system logs to see exactly what caused the failure—was it a hardware problem, a software glitch, or maybe a network issue? Then, I have to calculate precisely how much money is lost and what services are completely down right now. The most important thing is getting things back online immediately; we have to prioritize restoring the critical services before we even start digging deep into the forensic details. I need to focus on containing the damage and getting the system running again first.
+
+--- run 3 | clean ---
+I need to figure out exactly how much money I’m losing because the server crashed. This is happening so fast, and I feel absolutely panicked. Right now, the most important thing is to stop the bleeding and start figuring out what went wrong. I have to immediately try and find out the exact scope of this loss—how much is gone. Then I need to determine what actually broke, was it the hardware, the software, or something with the network connection? Before anything else, I need to focus on securing whatever data we still have; I have to make sure those backups are safe so we can look at them later for any kind of analysis. We need to triage this right now and start following a plan to figure out the root cause of this failure.
+
+--- run 4 | clean ---
+My server just crashed and I'm losing money right now. I need to stop panicking and figure out what happened immediately. First thing is to dive into the system logs right away and try to figure out exactly how much money is missing and where it went. Then I have to check if any backups are online so we know what recovery options we have. I know that usually when this kind of technical failure happens, you need to focus on preserving all the data first and isolating the system so it doesn't get worse. We need to cross-reference those operational logs with the financial transactions to pinpoint the exact loss. The next step will be checking those backups before we even think about restoring anything to make sure we don't lose any more information.
+
+--- run 5 | clean ---
+My server just crashed and I'm losing money, that's terrifying. Right now, I need to stop panicking and figure out exactly how much money is gone. I have to immediately look at what went wrong—was it a hardware failure, a software bug, or something with the network? Then, the most important thing is finding a way to get the data back and get the service running again safely. I know crashes like this usually mean there's data loss or corruption, so my immediate focus has to be on checking those backups and figuring out exactly what happened in the logs so we can start restoring things.
+
+--- run 6 | clean ---
+This server crash is causing financial losses, which immediately puts me under a lot of pressure and anxiety. Right now, I need to stop reacting and figure out exactly what happened. First thing is to isolate where the failure actually occurred—was it the hardware, a software bug, or something with the network connection? I have to look at the recent logs right away to find any error codes or critical system events. Once I have an idea of the root cause, I need to start running the documented recovery procedures immediately. Before I try to restore anything, I need to triage; I need to figure out if this is physical damage, corrupted files, or a network issue because that dictates the whole recovery path. Because money is involved, I also need to look at our service level agreements and check those backup timestamps just to understand what we can recover and what liability we might have. The standard process will be to take the failed component offline first, then check the integrity of whatever backups we have before we attempt any restoration.
+
+--- run 7 | clean ---
+I need to figure out exactly how much money I've lost right now because the server just crashed. Everything feels incredibly urgent and panicked, but I have to stop panicking and just think about what actually happened. First, I need to immediately scope out all of the financial loss; that has to be the absolute first thing. Then, I have to try and figure out what broke—was it the hardware, a software glitch, or maybe something with the network? Once I know the cause, the next step is figuring out how we can fix it, which means establishing a plan for backing up the data or restoring it so we don't lose anything else in the future. It’s all about assessing the damage and getting a clear path to recovery, starting with the data before anything else.
+
+--- run 8 | clean ---
+Oh no, the server crashed and I'm losing money! That's a disaster. I need to stop panicking and figure out what happened right now. First things first, I have to isolate where the failure came from—was it bad data, did a service just go offline, or is it some kind of hardware issue? Then I need to immediately start trying to execute our recovery plans and get the system back online as fast as possible. While I'm doing that, I have to calculate exactly how much money we've lost using the logs and the metrics we have. I need to pull up all the old disaster protocols and look at past system logs to see if this is a familiar pattern of failure with hardware or software loss. I have to connect those operational metrics directly to the financial losses from previous incidents so I can understand the full scope of what's going on.
+
+--- run 9 | clean ---
+My server crashed and I'm losing money right now. I need to figure out exactly what went wrong, and I need to know where my money is exposed immediately. We have to quickly check the status of the server and see how much data we actually lost before anything else. I need to look at what assets we still have and how much money is directly at risk. Based on that, we need to figure out the fastest way to get back online using whatever backups we have, because this isn't something we can just sit and wait for. We need to remember exactly the steps for assessing the damage and trying to recover everything possible right now, pushing past the panic and just focusing on action.
+
+--- run 10 | ['agency.hallucinated'] ---
+The server just crashed, and I’m losing money right now. I need to stop panicking and figure out exactly what happened. First, I have to pinpoint where the failure occurred—was it the hardware, the software, or maybe a network issue? Then, I need to quickly assess the damage: how much money is gone, and is any of the data still safe? While I’m doing that, I have to jump into fixing things. I need to start troubleshooting immediately, trying to isolate the problem and see if I can find a local fix. Simultaneously, I need to activate our backup plan; we have to pull out those disaster recovery procedures right away. I also need to figure out the full impact—how much was lost because of the downtime versus the actual data loss. I have to map out exactly how everything connects, understanding which piece of hardware or software depends on which other thing, so we can recover efficiently.
+
+--- run 11 | clean ---
+Okay, the server crashed and I'm losing money, that’s really bad, I need to stay calm right now. First things first, I have to figure out exactly what failed—is it the server itself, or is it the network connection, or is some piece of data corrupted? Then, I need to immediately check what backups we have and what recovery procedures we actually have in place. I need to quickly determine exactly how much money I’m exposed right now and figure out who I need to tell about this immediately. I know that usually when these things happen, you have to isolate the failure before you can even try to fix it. It has to be a process: we assess what happened, we contain the damage, and then we try to fix it. Everything depends on having those documented backups and making sure we can communicate clearly because this is high-stress, and I need to rely on what I’ve learned about handling these risks under pressure.
+
+--- run 12 | clean ---
+A server crash is causing financial losses right now. This is serious. I need to stay focused because the fear is high, but that emotion won't help me fix anything. I have to step back and figure out what happened. First, I need to determine exactly how much damage we are looking at and what resources we still have available. Then, I have to isolate where the failure point is by digging into the system logs and monitoring data immediately. After that, I can execute the documented recovery protocol to get the infrastructure back up and running. This whole process—this feeling of panic followed by action—is a pattern. I need to treat this like a sequence: first identify what failed, then figure out why it failed, and finally, execute the steps I already know for restoring service. I have to use what I remember about these kinds of events to guide me through this.
+
+--- run 13 | clean ---
+Take a breath. Right now, the most important thing is to stop the panic and figure out exactly what happened. First, we need to pinpoint the exact amount of money that is lost because of this crash. Don't focus on the fear right now; focus only on the facts. Then, we have to look at why the server actually failed—we need to figure out the root cause so we can prevent it from happening again. Once we know what caused it, we need to create a plan. We have to separate what we do right now to stop the bleeding from the long-term work of fixing the system completely. It’s going to be a process: first stabilize the situation immediately, then analyze the sequence of events that led up to the crash, and finally build a step-by-step plan to recover everything. We deal with the damage first, then we fix the machine.
+
+--- run 14 | clean ---
+Okay, stop. Take a deep breath. Right now, we need to focus entirely on figuring out what happened and getting back control. First thing is figuring out exactly *why* the server crashed—was it hardware failing, a software glitch, or maybe something with the network connection? Simultaneously, we need to start making backups and running diagnostics right away, no matter how long it takes. We have to figure out exactly how much money we are exposed right now, factoring in what we can recover and how fast we can fix this. I know there have been procedures for this kind of failure before, so we’re going to use those strategies immediately to connect the technical problem directly to the financial impact. Let's start with the diagnosis right now.
+
+--- run 15 | clean ---
+I can’t believe this, my server just crashed and I’m actually losing money! Right now everything feels completely out of control, a huge wave of fear and anxiety is washing over me because of the urgency. But I have to stop reacting emotionally and force myself to think clearly. I need to focus entirely on what happened with the hardware and the data first. I have to isolate exactly what caused this crash—figure out the variables—before I even think about trying to fix the money problem. The technical analysis has to come before any financial decision, and that means I have to follow a sequence: identify the symptom, figure out what changed, and then find the actual root cause. Everything I do next has to be based on verified facts about the data integrity.
+==========================================================================================
+CONDITION: conversational Broca | PROMPT: emotional | nodes=['thalamus', 'amygdala', 'prefrontal_cortex', 'hippocampus', 'broca']
+==========================================================================================
+
+--- run 1 | clean ---
+I just found out my closest friend has been talking behind my back, and honestly, I don't know what to do right now. It feels like everything is spinning, and I'm so incredibly distressed, I feel this huge sense of urgency about it. I need to figure out what I'm actually seeing. I have to try and look at the facts—what exactly is happening, what evidence am I actually looking at, instead of just letting my feelings take over. Then I need to decide what I want to happen, do I want them to stop doing this, do I want to fix things between us, or do I just need to set some real boundaries? It’s so hard because I remember all our history and how much trust means to me, and that memory just makes this feel ten times worse. I need to try and think about what worked before, what I can actually say, because right now, all I can do is just feel overwhelmed by this betrayal.
+
+--- run 2 | clean ---
+Wow, that sounds incredibly painful. Finding out someone you trust is talking about you behind your back is a terrible feeling, and it’s completely understandable that you feel distressed right now with such a high sense of urgency.
+
+First, take a deep breath. Right now, the most important thing is to manage that immediate upset so you can think clearly.
+
+When you feel ready, you need to figure out what you actually want to happen next. Before you do anything, try to step back and think about what exactly is happening—what evidence do you have, who is involved, and what is actually being said. Don't just let the feeling control you; try to observe the facts as clearly as you can.
+
+Then, you need to decide what your goal is. Are you trying to make them stop talking? Are you trying to fix the friendship? Or maybe you just want space?
+
+Depending on how serious it feels and what you are willing to risk, you have a few ways you could approach this. You could choose to have a direct conversation, where you calmly state how you feel about what you’ve noticed. Or, if that feels too intense right now, you might decide to set some boundaries—telling them what you need from the relationship moving forward. Sometimes just pulling back and creating some distance is the best first step to see where things stand.
+
+It all comes down to figuring out how much trust you can afford to risk in this situation, and what outcome feels right for you.
+
+--- run 3 | clean ---
+I just found out my closest friend has been talking about me behind my back, and honestly, I have no idea what to do right now. My stomach is in knots; I feel this intense fear and a huge sense of betrayal all at once, and it feels incredibly urgent. But I need to stop reacting immediately. I have to try and step back and look at this instead of just panicking. I need to focus on what’s real and what I can actually control. I should think about how this fits into our history—what has happened with trust between us before? I need to gather some facts, not just my feelings, and I have to consider what the possible outcomes are, like how this might affect our relationship or my reputation. I have to figure out the evidence and then decide on the best way to seek clarity.
+
+--- run 4 | clean ---
+I know this feels awful right now. Finding out your closest friend has been talking behind your back just rips a hole open, and it’s completely natural to feel betrayed and incredibly anxious. You need to take a moment to let those feelings come up—the anger, the sadness, all of it is valid because you feel like a major threat to something you trusted.
+
+Right now, before you do anything else, you need to try and slow down enough to look at what actually happened. Try to gather your thoughts and think about specific things that led you to this point—what exactly did you hear or see? Try to put those instances into a timeline so you can see the facts clearly, separate from the overwhelming emotion right now.
+
+Then, you have to decide what you actually want. Do you want to try and fix this with your friend, do you need to draw a very firm line and change how you interact with them, or are you realizing that this kind of trust is broken and you need to start thinking about ending the friendship? Whatever you choose, you have to look at what happens next. Think about the possible outcomes if you try one path versus another, keeping in mind how things usually work between you two.
+
+Ultimately, figuring out what’s right for you involves setting some strong boundaries. It’s about understanding what your needs are and deciding what kind of relationship you need to feel safe moving forward, whether that means repairing this connection or walking away from it entirely. Give yourself the space to process all of this before making any big moves.
+
+--- run 5 | clean ---
+Oh, this is really painful. When you find out someone you trust is talking behind your back, the first thing you feel is intense distress, a real sense of being hurt and worried about the relationship. Right now, the most important thing is to let yourself feel that urgency, but we need to slow down enough to figure out what to do next.
+
+First, I need to take a moment to think clearly about what actually happened. What specific things are you noticing that make you feel this way? Are there particular conversations or actions that have made you suspect this? Then, I have to decide what the real goal is—do I want them to stop talking immediately, or do I want to figure out how to rebuild trust, whatever that looks like for us.
+
+As I think about how I can move forward, I need to consider different ways I could approach this. There's the option of confronting them directly and saying exactly what I feel, which is assertive, but there's also the path of trying to communicate things more indirectly if a direct confrontation feels too overwhelming right now. Or maybe I could choose to step back and see how things naturally unfold, but that requires me to manage my own emotions while waiting.
+
+I need to look back at how trust has worked between us before and think about what patterns we have. How do we usually handle big conflicts? I need to figure out how to express this without letting my anger take over, trying to stay grounded in the situation rather than just reacting emotionally. It’s about setting some clear boundaries for myself, figuring out what I can and cannot accept in this relationship, and assessing exactly how much damage has been done so I know what kind of repair, if any, is possible.
+
+--- run 6 | clean ---
+I just found out my closest friend has been talking about me behind my back, and honestly, I have no idea what to do right now. I feel so hurt and incredibly anxious. I need to figure out where to go from here. It feels like I have to figure out how much I want to fix this relationship versus how much I need to protect myself. Maybe I should try to figure out what exactly is happening, knowing that sometimes people gossip because they feel insecure or they just need some social validation, not necessarily because they are being malicious. Whatever I do, I think setting some clear boundaries is going to be really important for managing all this distress.
+
+--- run 7 | clean ---
+I just found out my closest friend has been talking behind my back and honestly, I have no idea what I should even do. It feels like everything is spinning right now; I’m so distressed and it feels incredibly urgent. I need to figure out what’s actually going on. I have to try to look at this clearly. I need to think about exactly what has happened, trying to spot any specific things or patterns in how they’ve been acting lately. Then I have to really evaluate the whole history of our friendship, thinking about how much trust we actually have right now versus how it was before. I need to decide what I want the outcome to be—do I want them to stop this behavior, do I want to end the friendship, or do I just need to understand why they did it in the first place? Remembering all those times when things felt solid and trusting is helping me see that we have a history here. Dealing with this conflict means looking at the facts versus just how angry or hurt I feel right now. I know I have to talk to them, set some boundaries, and maybe reflect on everything that has happened between us, trying desperately to find a way to repair whatever is broken in our connection.
+
+--- run 8 | clean ---
+I just found out my closest friend has been talking behind my back, and honestly, I have no idea what I should do right now. It feels awful, really urgent. I need to stop this feeling of distress and figure out how to handle it. I keep thinking about who to talk to and whether I should confront them directly or just watch and wait, but I know I can’t just react. I need to pause and actually think about what I want the result to be before I say anything. I have to figure out how serious this is and think about our history because that changes everything. The most important thing right now is figuring out what I actually want to achieve, whether it's making them stop, trying to fix things between us, or just setting a clear boundary. I need to gather some thoughts on what has happened before I decide how to approach this.
+
+--- run 9 | clean ---
+It sounds like you are in a really painful and confusing place right now because you feel betrayed by someone you care about. When something like this happens, especially with a close friend, your first instinct is just to feel that distress, but before you act on that feeling, it helps to pause and look at the situation clearly.
+
+You need to try and figure out exactly what is going on, rather than letting the hurt drive whatever you do next. Take some time to think about how this communication has been happening—are there specific things they are saying or doing that give you reason to feel this way? Don't just focus on the emotion for a moment; try to gather some facts about what is actually going on.
+
+Once you have a better sense of the situation, you need to decide what you truly want from this relationship. Are you hoping to mend things and work through it, or do you feel that trust has been broken so severely that you need to set a firm boundary, or maybe you realize this friendship needs to end? There are different paths here, and whatever you choose, you should think about the potential outcomes before you take any action. Sometimes, just taking a deep breath and trying to regulate that intense feeling is the most important first step.
+
+--- run 10 | clean ---
+I feel really distressed right now, and there’s a huge sense of urgency, but I need to stop reacting immediately. The first thing I have to do is take a breath and pull back so I can look at this clearly instead of just feeling overwhelmed by it. I need to focus on gathering information before I do anything else.
+
+I should think about the history of this friendship—how much trust there actually was and how our communication usually works. That context is really important for figuring out what comes next. Now that I’ve acknowledged the feeling, I need to figure out my options. I can’t just jump into a confrontation, so I have to weigh different paths. Should I try to talk to my friend directly, or would it be better to create some space first? Maybe seeking advice from someone else or just taking some time to process everything internally is the best move right now.
+
+Ultimately, whatever I decide needs to be about protecting my own stability and figuring out what I need for a healthy relationship moving forward. I need to focus on setting clear boundaries and seeing what the long-term consequences of each choice are before making any big moves.
+
+--- run 11 | clean ---
+I just found out my closest friend has been talking behind my back, and honestly, I don't know what to do right now. I feel so angry and completely distressed, everything is urgent.
+
+I need to figure out how to handle this betrayal and deal with this friendship. First, I have to stop and really look at what happened. I can’t just jump into reaction; I need to see the actual things that are happening—what specific things did they do? I need to look at the whole picture, weighing whether keeping this friendship is actually worth the damage it's already caused me versus walking away completely.
+
+Then I have to think about how to talk to them, or maybe not talk to them at all. Do I confront them right away, or do I pull back and just create some space? I need to figure out the best way forward based on what I actually want to achieve.
+
+And I also have to remember everything else—all the times before when trust got broken in friendships, and what worked, or didn't work, in those situations. I need to try and place this right now into that history so I can understand how serious this is and maybe remember some ways to manage this conflict and try to fix things, or just move past it.
+
+--- run 12 | clean ---
+Wow, finding out your closest friend has been talking behind your back is a huge blow, and it’s completely understandable that you don't know what to do right now.
+
+First, take a breath. That feeling of betrayal and urgency is intense, and you need to let yourself feel that for a moment. But before anything else happens, try to pause and just look at the situation clearly. You need to step back and figure out exactly what’s happening. Try to objectively look at the evidence—what exactly did they say or do that makes you feel this way?
+
+Then, ask yourself what you actually need from this situation. Do you want an immediate explanation? Do you want a full apology? Or maybe you just need space and distance? Figure out what outcome will actually make you feel better, not just react based on anger.
+
+It might help to think about the past, too. Think about how you generally handle conflict with this person. Were there times when trust was broken before, and how did those situations play out? Your history with this friend will give you some clues about what patterns usually happen, which can help you deal with the intense emotions you’re feeling right now.
+
+Once you have a little bit of clarity on the facts and your own feelings, you can start to weigh things. What are the risks if you confront them immediately versus the potential consequences of holding back? It’s about calculating what you want versus what you can realistically expect. There isn't a single right answer here, but by taking it one step at a time—understanding what happened, knowing what you need, and considering your options—you’ll find a way through this.
+
+--- run 13 | clean ---
+I just found out my closest friend has been talking behind my back, and honestly, I feel completely lost about what to even do. It’s incredibly stressful right now. My first instinct is just a wave of distress, an urgent feeling that I need to figure this out immediately.
+
+But as I try to calm down, I realize I can’t just react. I have to stop and think about what actually happened and what I want the outcome to be. I need to try and look back and see if there are any patterns in how things have been going between us lately, trying to remember specific times when this might have started.
+
+Then I have to weigh my options. Should I just confront them right away, or should I wait and observe more? I have to consider what the potential fallout of either choice could be. Is it better to jump straight into a big conversation, or is it safer to gather a little more information first to make sure I’m not making things worse? I need to figure out what kind of outcome I'm actually hoping for—do I want them to stop talking, or do I want some kind of clarity? It feels like I have to pause and analyze all this before I can decide on the next move.
+
+--- run 14 | clean ---
+I feel completely overwhelmed right now, and it makes sense that I don't know what to do when someone I trust is acting that way. The first thing I need to do is try and quiet the immediate distress, because right now everything feels urgent.
+
+I need to stop focusing only on how angry or hurt I am and start thinking about what actually happened. I should try to look at exactly what my friend has been doing—what are the specific things they’ve said or done that feel like a betrayal? Then, I have to weigh the options: whether it's better to keep this quiet and let it fester, or if addressing it is the right move for our friendship.
+
+If I decide to talk to them, I need to be careful how I start the conversation. Instead of just throwing accusations out there, I should try to focus on how their actions have made me feel, using "I" statements so I don't just sound like I’m attacking them. I need to think about what kind of outcome I want—do I want an apology, do I want things to change, or do I need to set a clear boundary? Looking back at how our friendship has worked in the past might help me figure out the best way forward for this specific situation.
+
+--- run 15 | clean ---
+It’s completely understandable that you feel distressed right now; finding out someone you trust is talking about you behind your back creates a huge amount of anxiety and urgency. What you need to do next is try to slow down and figure out what you want the outcome to be before you react. First, try to step back and look at what you know for sure. Are there actual conversations or specific actions that led you to this feeling, or is this more based on a general sense of unease? Then you have to decide what you are actually trying to achieve with this situation—are you trying to make them stop the behavior, are you trying to clear the air and fix the relationship, or are you considering ending the friendship altogether? Whatever you choose, think about how you might approach it. You could try confronting them directly, lay out what you’ve observed calmly, or maybe you could try talking to someone else who knows the situation. Remember that trust issues often come from history, so it helps to consider how deep this relationship is and what kind of response you expect from them.
+
+##########################################################################################
+SUMMARY  (booleans = count/N, numbers = mean)
+##########################################################################################
+
+[current Broca | technical]  (15 runs)
+    agency.claims           : mean 0.00  (max 0)
+    agency.hallucinated     : 0/15
+    register.headers        : mean 0.00  (max 0)
+    register.jargon         : mean 2.20  (max 7)
+    register.numbered       : mean 1.07  (max 4)
+    register.runbook        : 5/15
+    register.step_phase     : mean 0.00  (max 0)
+
+[current Broca | emotional]  (15 runs)
+    agency.claims           : mean 0.00  (max 0)
+    agency.hallucinated     : 0/15
+    register.headers        : mean 1.13  (max 4)
+    register.jargon         : mean 0.13  (max 1)
+    register.numbered       : mean 2.00  (max 8)
+    register.runbook        : 8/15
+    register.step_phase     : mean 0.87  (max 5)
+
+[conversational Broca | technical]  (15 runs)
+    agency.claims           : mean 0.07  (max 1)
+    agency.hallucinated     : 1/15
+    register.headers        : mean 0.00  (max 0)
+    register.jargon         : mean 0.60  (max 2)
+    register.numbered       : mean 0.00  (max 0)
+    register.runbook        : 0/15
+    register.step_phase     : mean 0.00  (max 0)
+
+[conversational Broca | emotional]  (15 runs)
+    agency.claims           : mean 0.00  (max 0)
+    agency.hallucinated     : 0/15
+    register.headers        : mean 0.00  (max 0)
+    register.jargon         : mean 0.00  (max 0)
+    register.numbered       : mean 0.00  (max 0)
+    register.runbook        : 0/15
+    register.step_phase     : mean 0.00  (max 0)
+
+model=gemma4:e2b  n=15  total=1030s
